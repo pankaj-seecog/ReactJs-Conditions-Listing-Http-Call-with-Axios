@@ -4,6 +4,7 @@ import Hello from './Hello';
 import './style.css';
 import Cities from './Cities';
 import Myblog from './Myblog';
+import axios from 'axios';
 class App extends Component {
 
   constructor() {
